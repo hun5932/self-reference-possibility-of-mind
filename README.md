@@ -10,7 +10,7 @@
 
 ---
 
-<a id="english"></a>
+<a id="english" name="english"></a>
 
 ## English
 
@@ -56,7 +56,7 @@ Text and figures in this repository are released under **[Creative Commons Attri
 
 ---
 
-<a id="korean"></a>
+<a id="korean" name="korean"></a>
 
 ## 한국어
 
