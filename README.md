@@ -2,13 +2,15 @@
 
 **Recursive Emergence and Isomorphic Structures Across Visual, Auditory, Logical, and Computational Domains**
 
-[English](#english) · [한국어](#한국어)
+[English](#english) · [한국어](#korean)
 
 **DOI:** [10.5281/zenodo.21006608](https://doi.org/10.5281/zenodo.21006608) · **License:** CC BY-NC-ND 4.0 · **ORCID:** [0009-0000-6161-7563](https://orcid.org/0009-0000-6161-7563)
 
 > Version of record (with DOI) is archived on **Zenodo**. Supporting materials (figures, code) are also on **OSF**. This repository is a browsable mirror.
 
 ---
+
+<a id="english"></a>
 
 ## English
 
@@ -53,6 +55,8 @@ All data figures are author-created (matplotlib, music21, verovio, circuitsvis, 
 Text and figures in this repository are released under **[Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International (CC BY-NC-ND 4.0)](https://creativecommons.org/licenses/by-nc-nd/4.0/)**, consistent with the Zenodo deposit. This license keeps later submission to academic journals open. Third-party material retains its original copyright.
 
 ---
+
+<a id="korean"></a>
 
 ## 한국어
 
