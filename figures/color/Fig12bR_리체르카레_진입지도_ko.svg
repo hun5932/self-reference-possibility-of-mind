@@ -1,0 +1,537 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="611.99pt" height="259.827125pt" viewBox="0 0 611.99 259.827125" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-12T16:54:52.691656</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 259.827125 
+L 611.99 259.827125 
+L 611.99 0 
+L 0 0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 41.55 199.103125 
+L 397.906452 199.103125 
+L 397.906452 21.309375 
+L 41.55 21.309375 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g id="line2d_1">
+    <path d="M 41.55 40.755566 
+L 397.906452 40.755566 
+" clip-path="url(#pfb20d3fe06)" style="fill: none; stroke: #dddddd; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_2">
+    <path d="M 41.55 68.53584 
+L 397.906452 68.53584 
+" clip-path="url(#pfb20d3fe06)" style="fill: none; stroke: #dddddd; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_3">
+    <path d="M 41.55 96.316113 
+L 397.906452 96.316113 
+" clip-path="url(#pfb20d3fe06)" style="fill: none; stroke: #dddddd; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_4">
+    <path d="M 41.55 124.096387 
+L 397.906452 124.096387 
+" clip-path="url(#pfb20d3fe06)" style="fill: none; stroke: #dddddd; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_5">
+    <path d="M 41.55 151.87666 
+L 397.906452 151.87666 
+" clip-path="url(#pfb20d3fe06)" style="fill: none; stroke: #dddddd; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="line2d_6">
+    <path d="M 41.55 179.656934 
+L 397.906452 179.656934 
+" clip-path="url(#pfb20d3fe06)" style="fill: none; stroke: #dddddd; stroke-width: 0.6; stroke-linecap: square"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m14cceed17c" d="M 0 0 
+L 0 3.5 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m14cceed17c" x="41.55" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="41.55" y="214.103125" transform="rotate(-0 41.55 214.103125)">0</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m14cceed17c" x="99.026847" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="99.026847" y="214.103125" transform="rotate(-0 99.026847 214.103125)">5</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m14cceed17c" x="156.503694" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="156.503694" y="214.103125" transform="rotate(-0 156.503694 214.103125)">10</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m14cceed17c" x="213.980541" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="213.980541" y="214.103125" transform="rotate(-0 213.980541 214.103125)">15</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m14cceed17c" x="271.457388" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="271.457388" y="214.103125" transform="rotate(-0 271.457388 214.103125)">20</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m14cceed17c" x="328.934235" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="328.934235" y="214.103125" transform="rotate(-0 328.934235 214.103125)">25</text>
+     </g>
+    </g>
+    <g id="xtick_7">
+     <g id="line2d_13">
+      <g>
+       <use xlink:href="#m14cceed17c" x="386.411082" y="199.103125" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_7">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="386.411082" y="214.103125" transform="rotate(-0 386.411082 214.103125)">30</text>
+     </g>
+    </g>
+    <g id="text_8">
+     <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="219.728226" y="228.703125" transform="rotate(-0 219.728226 228.703125)">마디</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_14">
+      <defs>
+       <path id="m73603f9fae" d="M 0 0 
+L -3.5 0 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m73603f9fae" x="41.55" y="40.755566" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="34.55" y="44.755566" transform="rotate(-0 34.55 44.755566)">성부 3</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m73603f9fae" x="41.55" y="68.53584" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="34.55" y="72.53584" transform="rotate(-0 34.55 72.53584)">성부 2</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m73603f9fae" x="41.55" y="96.316113" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="34.55" y="100.316113" transform="rotate(-0 34.55 100.316113)">성부 5</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m73603f9fae" x="41.55" y="124.096387" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="34.55" y="128.096387" transform="rotate(-0 34.55 128.096387)">성부 4</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m73603f9fae" x="41.55" y="151.87666" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="34.55" y="155.87666" transform="rotate(-0 34.55 155.87666)">성부 1</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_19">
+      <g>
+       <use xlink:href="#m73603f9fae" x="41.55" y="179.656934" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_14">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="34.55" y="183.656934" transform="rotate(-0 34.55 183.656934)">성부 6</text>
+     </g>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 41.55 199.103125 
+L 41.55 21.309375 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 397.906452 199.103125 
+L 397.906452 21.309375 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 41.55 199.103125 
+L 397.906452 199.103125 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 41.55 21.309375 
+L 397.906452 21.309375 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_7">
+    <path d="M 53.045369 33.532695 
+L 99.026847 33.532695 
+L 99.026847 47.978437 
+L 53.045369 47.978437 
+z
+" clip-path="url(#pfb20d3fe06)" style="fill: #b8770a"/>
+   </g>
+   <g id="patch_8">
+    <path d="M 145.008325 89.093242 
+L 190.989802 89.093242 
+L 190.989802 103.538984 
+L 145.008325 103.538984 
+z
+" clip-path="url(#pfb20d3fe06)" style="fill: #b8770a"/>
+   </g>
+   <g id="patch_9">
+    <path d="M 259.962019 144.653789 
+L 305.943496 144.653789 
+L 305.943496 159.099531 
+L 259.962019 159.099531 
+z
+" clip-path="url(#pfb20d3fe06)" style="fill: #b8770a"/>
+   </g>
+   <g id="patch_10">
+    <path d="M 99.026847 61.312969 
+L 145.008325 61.312969 
+L 145.008325 75.758711 
+L 99.026847 75.758711 
+z
+" clip-path="url(#pfb20d3fe06)" style="fill: #ebc97f"/>
+   </g>
+   <g id="patch_11">
+    <path d="M 190.989802 116.873516 
+L 236.97128 116.873516 
+L 236.97128 131.319258 
+L 190.989802 131.319258 
+z
+" clip-path="url(#pfb20d3fe06)" style="fill: #ebc97f"/>
+   </g>
+   <g id="patch_12">
+    <path d="M 328.934235 172.434062 
+L 374.915713 172.434062 
+L 374.915713 186.879805 
+L 328.934235 186.879805 
+z
+" clip-path="url(#pfb20d3fe06)" style="fill: #ebc97f"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="219.728226" y="15.309375" transform="rotate(-0 219.728226 15.309375)">「6성부 리체르카레」 BWV 1079 — 제시부 주제 진입 (mm.1–27)</text>
+   </g>
+   <g id="legend_1">
+    <g id="patch_13">
+     <path d="M 335.171452 34.909375 
+L 351.171452 34.909375 
+L 351.171452 29.309375 
+L 335.171452 29.309375 
+z
+" style="fill: #b8770a; stroke: #b8770a; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_16">
+     <text style="font-size: 8px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="357.571452" y="34.909375" transform="rotate(-0 357.571452 34.909375)">주제</text>
+    </g>
+    <g id="patch_14">
+     <path d="M 335.171452 47.476875 
+L 351.171452 47.476875 
+L 351.171452 41.876875 
+L 335.171452 41.876875 
+z
+" style="fill: #ebc97f; stroke: #ebc97f; stroke-linejoin: miter"/>
+    </g>
+    <g id="text_17">
+     <text style="font-size: 8px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="357.571452" y="47.476875" transform="rotate(-0 357.571452 47.476875)">응답(5도)</text>
+    </g>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_15">
+    <path d="M 435.096452 195.053024 
+L 604.79 195.053024 
+L 604.79 25.359476 
+L 435.096452 25.359476 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#pb0f6b2b2f2)">
+    <image xlink:href="data:image/png;base64,
+iVBORw0KGgoAAAANSUhEUgAAAsQAAALECAYAAAAPVSaDAAANz0lEQVR4nO3YwU0DQRBFQRtNYM5goyGHSYbzhAcp7AGrBa8qgq8+PfXz9fX5/QAAgKiP6QEAADBJEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0tb0AACAv+Jce3oCb+BDDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKQJYgAA0gQxAABpghgAgDRBDABAmiAGACBNEAMAkCaIAQBIE8QAAKSt6QEA8B+da09PAG7yIQYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADS1vQAgLpz7ekJAGk+xAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAECaIAYAIE0QAwCQJogBAEgTxAAApAliAADSBDEAAGmCGACANEEMAEDamh4A3Heu7VwA8Mt8iAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIC0NT2A9zjXdloAgBt8iAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIA0QQwAQJogBgAgTRADAJAmiAEASBPEAACkCWIAANIEMQAAaYIYAIBH2Q/Erg+5UahVnwAAAABJRU5ErkJggg==" id="imageddb39a0f47" transform="scale(1 -1) translate(0 -169.92)" x="435.096452" y="-25.133024" width="169.92" height="169.92"/>
+   </g>
+   <g id="matplotlib.axis_3">
+    <g id="xtick_8">
+     <g id="line2d_20">
+      <g>
+       <use xlink:href="#m14cceed17c" x="449.237581" y="195.053024" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="449.237581" y="210.053024" transform="rotate(-0 449.237581 210.053024)">1</text>
+     </g>
+    </g>
+    <g id="xtick_9">
+     <g id="line2d_21">
+      <g>
+       <use xlink:href="#m14cceed17c" x="477.519839" y="195.053024" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="477.519839" y="210.053024" transform="rotate(-0 477.519839 210.053024)">2</text>
+     </g>
+    </g>
+    <g id="xtick_10">
+     <g id="line2d_22">
+      <g>
+       <use xlink:href="#m14cceed17c" x="505.802097" y="195.053024" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="505.802097" y="210.053024" transform="rotate(-0 505.802097 210.053024)">3</text>
+     </g>
+    </g>
+    <g id="xtick_11">
+     <g id="line2d_23">
+      <g>
+       <use xlink:href="#m14cceed17c" x="534.084355" y="195.053024" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="534.084355" y="210.053024" transform="rotate(-0 534.084355 210.053024)">4</text>
+     </g>
+    </g>
+    <g id="xtick_12">
+     <g id="line2d_24">
+      <g>
+       <use xlink:href="#m14cceed17c" x="562.366613" y="195.053024" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_22">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="562.366613" y="210.053024" transform="rotate(-0 562.366613 210.053024)">5</text>
+     </g>
+    </g>
+    <g id="xtick_13">
+     <g id="line2d_25">
+      <g>
+       <use xlink:href="#m14cceed17c" x="590.648871" y="195.053024" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_23">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="590.648871" y="210.053024" transform="rotate(-0 590.648871 210.053024)">6</text>
+     </g>
+    </g>
+    <g id="text_24">
+     <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="519.943226" y="225.162399" transform="rotate(-0 519.943226 225.162399)">참조되는 진입 j</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_26">
+      <g>
+       <use xlink:href="#m73603f9fae" x="435.096452" y="39.500605" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_25">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="428.096452" y="43.500605" transform="rotate(-0 428.096452 43.500605)">1</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_27">
+      <g>
+       <use xlink:href="#m73603f9fae" x="435.096452" y="67.782863" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_26">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="428.096452" y="71.782863" transform="rotate(-0 428.096452 71.782863)">2</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_28">
+      <g>
+       <use xlink:href="#m73603f9fae" x="435.096452" y="96.065121" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_27">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="428.096452" y="100.065121" transform="rotate(-0 428.096452 100.065121)">3</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_29">
+      <g>
+       <use xlink:href="#m73603f9fae" x="435.096452" y="124.347379" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_28">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="428.096452" y="128.347379" transform="rotate(-0 428.096452 128.347379)">4</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_30">
+      <g>
+       <use xlink:href="#m73603f9fae" x="435.096452" y="152.629637" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_29">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="428.096452" y="156.629637" transform="rotate(-0 428.096452 156.629637)">5</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_31">
+      <g>
+       <use xlink:href="#m73603f9fae" x="435.096452" y="180.911895" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_30">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="428.096452" y="184.911895" transform="rotate(-0 428.096452 184.911895)">6</text>
+     </g>
+    </g>
+    <g id="text_31">
+     <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="416.055827" y="110.20625" transform="rotate(-90 416.055827 110.20625)">진입 i</text>
+    </g>
+   </g>
+   <g id="patch_16">
+    <path d="M 435.096452 195.053024 
+L 435.096452 25.359476 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_17">
+    <path d="M 604.79 195.053024 
+L 604.79 25.359476 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_18">
+    <path d="M 435.096452 195.053024 
+L 604.79 195.053024 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_19">
+    <path d="M 435.096452 25.359476 
+L 604.79 25.359476 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_32">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="477.519839" y="41.390605" transform="rotate(-0 477.519839 41.390605)">·</text>
+   </g>
+   <g id="text_33">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="505.802097" y="41.390605" transform="rotate(-0 505.802097 41.390605)">·</text>
+   </g>
+   <g id="text_34">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="534.084355" y="41.390605" transform="rotate(-0 534.084355 41.390605)">·</text>
+   </g>
+   <g id="text_35">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="562.366613" y="41.390605" transform="rotate(-0 562.366613 41.390605)">·</text>
+   </g>
+   <g id="text_36">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="590.648871" y="41.390605" transform="rotate(-0 590.648871 41.390605)">·</text>
+   </g>
+   <g id="text_37">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="505.802097" y="69.672863" transform="rotate(-0 505.802097 69.672863)">·</text>
+   </g>
+   <g id="text_38">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="534.084355" y="69.672863" transform="rotate(-0 534.084355 69.672863)">·</text>
+   </g>
+   <g id="text_39">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="562.366613" y="69.672863" transform="rotate(-0 562.366613 69.672863)">·</text>
+   </g>
+   <g id="text_40">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="590.648871" y="69.672863" transform="rotate(-0 590.648871 69.672863)">·</text>
+   </g>
+   <g id="text_41">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="534.084355" y="97.955121" transform="rotate(-0 534.084355 97.955121)">·</text>
+   </g>
+   <g id="text_42">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="562.366613" y="97.955121" transform="rotate(-0 562.366613 97.955121)">·</text>
+   </g>
+   <g id="text_43">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="590.648871" y="97.955121" transform="rotate(-0 590.648871 97.955121)">·</text>
+   </g>
+   <g id="text_44">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="562.366613" y="126.237379" transform="rotate(-0 562.366613 126.237379)">·</text>
+   </g>
+   <g id="text_45">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="590.648871" y="126.237379" transform="rotate(-0 590.648871 126.237379)">·</text>
+   </g>
+   <g id="text_46">
+    <text style="font-size: 7px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #bbbbbb" x="590.648871" y="154.519637" transform="rotate(-0 590.648871 154.519637)">·</text>
+   </g>
+   <g id="text_47">
+    <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="519.943226" y="19.359476" transform="rotate(-0 519.943226 19.359476)">인과적 자기집중 마스크</text>
+   </g>
+  </g>
+  <g id="text_48">
+   <text style="font-size: 8.2px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #555555" x="305.99" y="250.495125" transform="rotate(-0 305.99 250.495125)">왼쪽: 제시부 6진입 실측(마디·성부, kern 파싱) · 오른쪽: causal mask — 형식적 평행</text>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="pfb20d3fe06">
+   <rect x="41.55" y="21.309375" width="356.356452" height="177.79375"/>
+  </clipPath>
+  <clipPath id="pb0f6b2b2f2">
+   <rect x="435.096452" y="25.359476" width="169.693548" height="169.693548"/>
+  </clipPath>
+ </defs>
+</svg>

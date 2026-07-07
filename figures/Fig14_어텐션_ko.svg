@@ -1,0 +1,309 @@
+<?xml version="1.0" encoding="utf-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN"
+  "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg xmlns:xlink="http://www.w3.org/1999/xlink" width="347.328438pt" height="335.708937pt" viewBox="0 0 347.328438 335.708937" xmlns="http://www.w3.org/2000/svg" version="1.1">
+ <metadata>
+  <rdf:RDF xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:cc="http://creativecommons.org/ns#" xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+   <cc:Work>
+    <dc:type rdf:resource="http://purl.org/dc/dcmitype/StillImage"/>
+    <dc:date>2026-06-11T10:20:36.182973</dc:date>
+    <dc:format>image/svg+xml</dc:format>
+    <dc:creator>
+     <cc:Agent>
+      <dc:title>Matplotlib v3.10.9, https://matplotlib.org/</dc:title>
+     </cc:Agent>
+    </dc:creator>
+   </cc:Work>
+  </rdf:RDF>
+ </metadata>
+ <defs>
+  <style type="text/css">*{stroke-linejoin: round; stroke-linecap: butt}</style>
+ </defs>
+ <g id="figure_1">
+  <g id="patch_1">
+   <path d="M 0 335.708937 
+L 347.328438 335.708937 
+L 347.328438 -0 
+L 0 -0 
+z
+" style="fill: #ffffff"/>
+  </g>
+  <g id="axes_1">
+   <g id="patch_2">
+    <path d="M 47.757813 246.57556 
+L 282.363333 246.57556 
+L 282.363333 11.97004 
+L 47.757813 11.97004 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <g clip-path="url(#p9e0863065d)">
+    <image xlink:href="data:image/png;base64,
+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AAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAECw3G635XkYzO12s10mYb1ejz0CAAAT5iINAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAACENAAAAw3CRBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAICQBgAAgGG4SAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAjms9nsU94AQ/l8fBQBAIDpc5EGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAABDSAAAAMAwXaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAIaQAAABiGizQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAABAIaQAAAAiENAAAAARCGgAAAAIhDQAAAIGQBgAAgEBIAwAAQCCkAQAAIBDSAAAAEAhpAAAACIQ0AAAABEIaAAAAhDQAAAAMw0UaAAAAAiENAAAAgZAGAACAQEgDAABAIKQBAAAgENIAAAAQCGkAAAAIhDQAAAAEQhoAAAACIQ0AAACBkAYAAIBASAMAAEAgpAEAACAQ0gAAADD7u38d9THVFzhk+QAAAABJRU5ErkJggg==" id="imageb9e0a5d9fa" transform="scale(1 -1) translate(0 -234.72)" x="47.757813" y="-11.85556" width="234.72" height="234.72"/>
+   </g>
+   <g id="matplotlib.axis_1">
+    <g id="xtick_1">
+     <g id="line2d_1">
+      <defs>
+       <path id="m58eea77647" d="M 0 0 
+L 0 3.5 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m58eea77647" x="67.308273" y="246.57556" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_1">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(52.502119 272.20009) rotate(-45)">The</text>
+     </g>
+    </g>
+    <g id="xtick_2">
+     <g id="line2d_2">
+      <g>
+       <use xlink:href="#m58eea77647" x="106.409193" y="246.57556" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_2">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(94.459088 269.344041) rotate(-45)">cat</text>
+     </g>
+    </g>
+    <g id="xtick_3">
+     <g id="line2d_3">
+      <g>
+       <use xlink:href="#m58eea77647" x="145.510113" y="246.57556" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_3">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(134.012998 268.891051) rotate(-45)">sat</text>
+     </g>
+    </g>
+    <g id="xtick_4">
+     <g id="line2d_4">
+      <g>
+       <use xlink:href="#m58eea77647" x="184.611033" y="246.57556" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_4">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(174.033157 267.971812) rotate(-45)">on</text>
+     </g>
+    </g>
+    <g id="xtick_5">
+     <g id="line2d_5">
+      <g>
+       <use xlink:href="#m58eea77647" x="223.711953" y="246.57556" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_5">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(210.942046 270.163843) rotate(-45)">the</text>
+     </g>
+    </g>
+    <g id="xtick_6">
+     <g id="line2d_6">
+      <g>
+       <use xlink:href="#m58eea77647" x="262.812873" y="246.57556" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_6">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; fill: #1a1a1a" transform="translate(250.862768 269.344041) rotate(-45)">cat</text>
+     </g>
+    </g>
+    <g id="text_7">
+     <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="165.060573" y="286.547942" transform="rotate(-0 165.060573 286.547942)">key — 참조 대상 (attended-to)</text>
+    </g>
+   </g>
+   <g id="matplotlib.axis_2">
+    <g id="ytick_1">
+     <g id="line2d_7">
+      <defs>
+       <path id="m8aaea12160" d="M 0 0 
+L -3.5 0 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m8aaea12160" x="47.757813" y="31.5205" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_8">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="40.757813" y="35.5205" transform="rotate(-0 40.757813 35.5205)">The</text>
+     </g>
+    </g>
+    <g id="ytick_2">
+     <g id="line2d_8">
+      <g>
+       <use xlink:href="#m8aaea12160" x="47.757813" y="70.62142" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_9">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="40.757813" y="74.62142" transform="rotate(-0 40.757813 74.62142)">cat</text>
+     </g>
+    </g>
+    <g id="ytick_3">
+     <g id="line2d_9">
+      <g>
+       <use xlink:href="#m8aaea12160" x="47.757813" y="109.72234" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_10">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="40.757813" y="113.72234" transform="rotate(-0 40.757813 113.72234)">sat</text>
+     </g>
+    </g>
+    <g id="ytick_4">
+     <g id="line2d_10">
+      <g>
+       <use xlink:href="#m8aaea12160" x="47.757813" y="148.82326" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_11">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="40.757813" y="152.82326" transform="rotate(-0 40.757813 152.82326)">on</text>
+     </g>
+    </g>
+    <g id="ytick_5">
+     <g id="line2d_11">
+      <g>
+       <use xlink:href="#m8aaea12160" x="47.757813" y="187.92418" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_12">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="40.757813" y="191.92418" transform="rotate(-0 40.757813 191.92418)">the</text>
+     </g>
+    </g>
+    <g id="ytick_6">
+     <g id="line2d_12">
+      <g>
+       <use xlink:href="#m8aaea12160" x="47.757813" y="227.0251" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_13">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: end; fill: #1a1a1a" x="40.757813" y="231.0251" transform="rotate(-0 40.757813 231.0251)">cat</text>
+     </g>
+    </g>
+    <g id="text_14">
+     <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="15.709375" y="129.2728" transform="rotate(-90 15.709375 129.2728)">query — 현재 토큰 (attending)</text>
+    </g>
+   </g>
+   <g id="patch_3">
+    <path d="M 47.757813 246.57556 
+L 47.757813 11.97004 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_4">
+    <path d="M 282.363333 246.57556 
+L 282.363333 11.97004 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_5">
+    <path d="M 47.757813 246.57556 
+L 282.363333 246.57556 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="patch_6">
+    <path d="M 47.757813 11.97004 
+L 282.363333 11.97004 
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.8; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+   <g id="text_15">
+    <text style="font-size: 8px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #555555" x="165.060573" y="326.341437" transform="rotate(-0 165.060573 326.341437)">도식(예시) — 실측은 Python 산출</text>
+   </g>
+  </g>
+  <g id="axes_2">
+   <g id="patch_7">
+    <path d="M 292.630533 247.3456 
+L 304.437813 247.3456 
+L 304.437813 11.2 
+L 292.630533 11.2 
+z
+" style="fill: #ffffff"/>
+   </g>
+   <image xlink:href="data:image/png;base64,
+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" id="imagef088a53f10" transform="scale(1 -1) translate(0 -236.16)" x="292.56" y="-11.04" width="11.76" height="236.16"/>
+   <g id="matplotlib.axis_3"/>
+   <g id="matplotlib.axis_4">
+    <g id="ytick_7">
+     <g id="line2d_13">
+      <defs>
+       <path id="m44b2feb80d" d="M 0 0 
+L 3.5 0 
+" style="stroke: #1a1a1a; stroke-width: 0.8"/>
+      </defs>
+      <g>
+       <use xlink:href="#m44b2feb80d" x="304.437813" y="247.3456" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_16">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="311.437813" y="251.3456" transform="rotate(-0 311.437813 251.3456)">0.0</text>
+     </g>
+    </g>
+    <g id="ytick_8">
+     <g id="line2d_14">
+      <g>
+       <use xlink:href="#m44b2feb80d" x="304.437813" y="200.11648" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_17">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="311.437813" y="204.11648" transform="rotate(-0 311.437813 204.11648)">0.2</text>
+     </g>
+    </g>
+    <g id="ytick_9">
+     <g id="line2d_15">
+      <g>
+       <use xlink:href="#m44b2feb80d" x="304.437813" y="152.88736" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_18">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="311.437813" y="156.88736" transform="rotate(-0 311.437813 156.88736)">0.4</text>
+     </g>
+    </g>
+    <g id="ytick_10">
+     <g id="line2d_16">
+      <g>
+       <use xlink:href="#m44b2feb80d" x="304.437813" y="105.65824" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_19">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="311.437813" y="109.65824" transform="rotate(-0 311.437813 109.65824)">0.6</text>
+     </g>
+    </g>
+    <g id="ytick_11">
+     <g id="line2d_17">
+      <g>
+       <use xlink:href="#m44b2feb80d" x="304.437813" y="58.42912" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_20">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="311.437813" y="62.42912" transform="rotate(-0 311.437813 62.42912)">0.8</text>
+     </g>
+    </g>
+    <g id="ytick_12">
+     <g id="line2d_18">
+      <g>
+       <use xlink:href="#m44b2feb80d" x="304.437813" y="11.2" style="fill: #1a1a1a; stroke: #1a1a1a; stroke-width: 0.8"/>
+      </g>
+     </g>
+     <g id="text_21">
+      <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: start; fill: #1a1a1a" x="311.437813" y="15.2" transform="rotate(-0 311.437813 15.2)">1.0</text>
+     </g>
+    </g>
+    <g id="text_22">
+     <text style="font-size: 10px; font-family: 'Noto Serif KR', 'Batang', 'Malgun Gothic', 'DejaVu Serif', serif; text-anchor: middle; fill: #1a1a1a" x="337.528437" y="129.2728" transform="rotate(-90 337.528437 129.2728)">어텐션 가중치</text>
+    </g>
+   </g>
+   <g id="LineCollection_1"/>
+   <g id="patch_8">
+    <path d="M 292.630533 247.3456 
+L 298.534173 247.3456 
+L 304.437813 247.3456 
+L 304.437813 11.2 
+L 298.534173 11.2 
+L 292.630533 11.2 
+L 292.630533 247.3456 
+z
+" style="fill: none; stroke: #1a1a1a; stroke-width: 0.6; stroke-linejoin: miter; stroke-linecap: square"/>
+   </g>
+  </g>
+ </g>
+ <defs>
+  <clipPath id="p9e0863065d">
+   <rect x="47.757813" y="11.97004" width="234.60552" height="234.60552"/>
+  </clipPath>
+ </defs>
+</svg>
